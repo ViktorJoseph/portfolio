@@ -4,7 +4,7 @@
 
 @font-face {
   font-family: "Victor Sans";
-  src: url("../fonts/NeueMontreal-Light.otf") format("opentype");
+  src: url("https://victorjoey.com/fonts/NeueMontreal-Light.otf") format("opentype");
   font-weight: 300;
   font-style: normal;
   font-display: auto;
@@ -12,7 +12,7 @@
 
 @font-face {
   font-family: "Victor Sans";
-  src: url("../fonts/NeueMontreal-LightItalic.otf") format("opentype");
+  src: url("https://victorjoey.com/fonts/NeueMontreal-LightItalic.otf") format("opentype");
   font-weight: 300;
   font-style: italic;
   font-display: auto;
@@ -20,7 +20,7 @@
 
 @font-face {
   font-family: "Victor Sans";
-  src: url("../fonts/NeueMontreal-Regular.otf") format("opentype");
+  src: url("https://victorjoey.com/fonts/NeueMontreal-Regular.otf") format("opentype");
   font-weight: 450;
   font-style: normal;
   font-display: auto;
@@ -28,7 +28,7 @@
 
 @font-face {
   font-family: "Victor Sans";
-  src: url("../fonts/NeueMontreal-Italic.otf") format("opentype");
+  src: url("https://victorjoey.com/fonts/NeueMontreal-Italic.otf") format("opentype");
   font-weight: 450;
   font-style: italic;
   font-display: auto;
@@ -36,7 +36,7 @@
 
 @font-face {
   font-family: "Victor Sans";
-  src: url("../fonts/NeueMontreal-Bold.otf") format("opentype");
+  src: url("https://victorjoey.com/fonts/NeueMontreal-Bold.otf") format("opentype");
   font-weight: 800;
   font-style: normal;
   font-display: auto;
@@ -44,7 +44,7 @@
 
 @font-face {
   font-family: "Victor Sans";
-  src: url("../fonts/NeueMontreal-BoldItalic.otf") format("opentype");
+  src: url("https://victorjoey.com/fonts/NeueMontreal-BoldItalic.otf") format("opentype");
   font-weight: 800;
   font-style: italic;
   font-display: auto;
@@ -1309,7 +1309,7 @@ main .btn-hamburger.active {
   top: 0;
   position: absolute;
   background-color: var(--color-blue);
-  background-image: url("../img/form-checkmark.svg");
+  background-image: url("https://victorjoey.com/img/form-checkmark.svg");
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
