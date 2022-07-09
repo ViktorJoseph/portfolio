@@ -2143,7 +2143,7 @@ main.touch .main-wrap {
 }
 
 .single-about-image .overlay:nth-child(1) {
-  background: url("https://victorjoey.com/img/DSC07312-2.jpg") center center no-repeat;
+  background: url("https://victorjoey.com/assets/img/DSC07312-2.jpg") center center no-repeat;
   background-size: cover;
   top: -20vh;
   height: 105%;
@@ -2413,14 +2413,14 @@ main.touch .main-wrap {
 }
 
 .about-awwwards .single-image .overlay:nth-child(1) {
-  background: url("https://victorjoey.com/img/DSC07292.jpg") center center no-repeat;
+  background: url("https://victorjoey.com/assets/img/DSC07292.jpg") center center no-repeat;
   background-size: cover;
   height: 130%;
   top: -25%;
   width: 105%;
   left: -5%;
 
-  background: url("https://victorjoey.com/img/DSC07079.jpg") center center no-repeat;
+  background: url("https://victorjoey.com/assets/img/DSC07079.jpg") center center no-repeat;
   background-size: cover;
   top: -3%;
   height: 106%;
@@ -2490,7 +2490,7 @@ main.touch .main-wrap {
   }
 
   .about-awwwards .single-image .overlay:nth-child(1) {
-    background: url("https://victorjoey.com/img/DSC07079.jpg") center center no-repeat;
+    background: url("https://victorjoey.com/assets/img/DSC07079.jpg") center center no-repeat;
     background-size: cover;
     top: -8%;
     height: 110%;

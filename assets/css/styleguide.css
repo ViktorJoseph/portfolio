@@ -1309,7 +1309,7 @@ main .btn-hamburger.active {
   top: 0;
   position: absolute;
   background-color: var(--color-blue);
-  background-image: url("https://victorjoey.com/img/form-checkmark.svg");
+  background-image: url("https://victorjoey.com/assets/img/form-checkmark.svg");
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
